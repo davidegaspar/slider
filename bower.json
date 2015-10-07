@@ -1,0 +1,25 @@
+{
+  "name": "slider",
+  "main": "slider.js",
+  "version": "0.1.0",
+  "authors": [
+    "davidegaspar <me@davidegaspar.com>"
+  ],
+  "description": "animated slider",
+  "moduleType": [],
+  "keywords": [
+    "css3",
+    "animation",
+    "slider"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
