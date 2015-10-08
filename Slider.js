@@ -1,7 +1,7 @@
 /*
 	Slide
 */
-function Slide(r,o,w,d){//slider/root, options, willChange, didChange
+function Slider(r,o,w,d){//slider/root, options, willChange, didChange
 	//vars
 	var self=this;
 	var curSlide=-1;
